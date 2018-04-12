@@ -1,0 +1,31 @@
+body{
+	padding:50px;
+	padding-bottom: 50px;
+}
+/*轮播图*/
+.carousel{
+	height:500px;
+	margin-bottom: 50px;
+}
+.carousel .item{
+	height: 500px;
+	background-color: #000;
+}
+.carousel .item img{
+	width: 100%;
+}
+/*主要内容*/
+#summary-container{
+	text-align: center;
+	font-size: 14px;
+}
+.feature-heading{
+	font-size: 50px;
+	color:#2a6496;
+}
+.text-muted{
+	font-size: 28px;
+}
+.feature{
+	padding:40x 0;
+}
